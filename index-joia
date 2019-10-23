@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<title>Supermercado Jóia</title>
+<link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+	<header>
+		<img class="logo" src="img/logo.png" alt="Logo Jóia"  >
+	</header>
+	
+	<nav id="nav">
+	<ul id="princ">
+		<li> <a href="https://www.link1.com">Link 1</a> </li>
+		<li> <a href="https://www.link2.com">Link 2</a> </li>
+		<li> <a href="https://www.link3.com">Link 3</a> </li>
+		<li> <a href="https://www.link4.com">Link 4</a> </li>
+		<li> <a href="https://www.link5.com">Link 5</a> </li>
+		<li> <a href="https://www.link6.com">Link 6</a> </li>
+		<li> <a href="https://www.link7.com">Link 7</a> </li>
+		<li> <a href="https://www.link8.com">Link 8</a> </li>
+	</ul>
+	</nav>
+	
+	<main>
+		<div class="itens">
+			<div class="it1"> </div>
+			<div class="it2"> </div>
+			<div class="it3"> </div>
+			<div class="it4"> </div>
+			<div class="it5"> </div>
+			<div class="it6"> </div>
+			<div class="it7"> </div>
+			<div class="it8"> </div>
+			<div class="it9"> </div>
+			<div class="it10"> </div>
+			<div class="it11"> </div>
+			<div class="it12"> </div>
+		</div>	
+	</main>
+	
+	<aside>
+	<h3> Destaque 1</h3>
+		<p>
+			Paragrafo aleatório sobre o h3 relativo a aula de layouts em css
+		</p>
+
+		<a href="https://www.saibamais.com">Saiba mais</a>
+
+	<h3> Destaque 2</h3>
+		<p>
+			Paragrafo aleatório sobre o h3 relativo a aula de layouts em css
+		</p>
+
+		<a href="https://www.saibamais2.com">Saiba mais</a>
+
+	<h3> Destaque 3</h3>
+		<p>
+			Paragrafo aleatório sobre o h3 relativo a aula de layouts em css
+		</p>
+
+		<a href="https://www.saibamais3.com">Saiba mais</a>
+	</aside>
+	
+	<footer>
+			Rodapé
+	</footer>
+</body>
+</html>
+	
